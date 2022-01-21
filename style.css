@@ -1,0 +1,10 @@
+div>p{
+    display: none;
+}
+
+div:hover>p{
+    display:inline;
+    color: black;
+    width: 300px;
+
+}
