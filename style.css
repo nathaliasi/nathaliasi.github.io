@@ -8,3 +8,14 @@ div:hover>p{
     width: 300px;
 
 }
+
+li a{
+font-family: monospace;
+color: rgb(224, 101, 126);
+font-size: medium;
+}
+
+li a:hover{
+    color: crimson;
+    font-size: large;
+}
